@@ -1,0 +1,16 @@
+header {
+  font-size: 30px;
+  margin: 10px 21px 24px 12px;
+}
+
+.class-test__title {
+  font-size: 34px;
+}
+
+.class-test__text {
+  font-size: 14px;
+}
+
+.red {
+  color: #aa1515;
+}

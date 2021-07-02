@@ -1,0 +1,15 @@
+@import "_header";
+
+.class-test {
+  &__title {
+    font-size: 34px;
+  }
+
+  &__text {
+    font-size: 14px;
+  }
+}
+
+.red {
+  color: rgb(170, 21, 21);
+}
